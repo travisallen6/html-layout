@@ -1,0 +1,24 @@
+body {
+    background-color:#d8d8d8;
+}
+header {
+    height:240px;
+    width:100%;
+    background-color:#444444;
+}
+
+
+main {
+    width: 70vw;
+    height: calc(100vh - 365px);
+    background-color:#efefef;
+    margin:0 auto;
+}
+
+footer {
+    height: 125px;
+    width: 70vw;
+    background-color:#222222;
+    margin:0 auto;
+    
+}
