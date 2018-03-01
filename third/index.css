@@ -1,0 +1,44 @@
+header {
+    width:100vw;
+    height: 175px;
+    background-color: #D8D8D8;
+    padding: 12px 35px;
+}
+
+.logo {
+    width:140px;
+    height:140px;
+    background-color: #4A90E2;
+}
+
+.white {
+    width:100%;
+    padding:70px;
+    height:29vh;
+}
+
+p {
+    font-size:2.3em;
+    color: #4A4A60;
+    line-height:1.3em;
+}
+
+.box-color{
+    width:100vw;
+    height:14.6vh;
+}
+
+#blue {
+    background-color:#4A90E2;
+}
+#green {
+    background-color:#50E3C2;
+}
+#puke {
+    background-color:#B8E986;
+}
+#yellow {
+    background-color: #F8E71C;
+}
+
+
